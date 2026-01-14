@@ -186,7 +186,7 @@ This project is private and proprietary.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Kazi Bony Amin - Sreca E-commerce Authentication System
 
 ## 🙏 Acknowledgments
 
